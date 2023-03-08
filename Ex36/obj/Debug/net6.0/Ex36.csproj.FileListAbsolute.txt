@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\bin\Debug\net6.0\Ex36.exe
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\bin\Debug\net6.0\Ex36.deps.json
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\bin\Debug\net6.0\Ex36.runtimeconfig.json
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\bin\Debug\net6.0\Ex36.dll
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\bin\Debug\net6.0\Ex36.pdb
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.AssemblyInfo.cs
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.dll
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\refint\Ex36.dll
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.pdb
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\Ex36.genruntimeconfig.cache
+C:\Users\Admin\Documents\Сергей\GeekBrains\Знакомство с языком программирования C#\Семинар5\Homework5\Homework\Ex36\obj\Debug\net6.0\ref\Ex36.dll
